@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BOTSPOT-AI/static/css/main.d35af095.css",
+    "main.js": "/BOTSPOT-AI/static/js/main.23a06324.js",
+    "static/js/787.628d3c74.chunk.js": "/BOTSPOT-AI/static/js/787.628d3c74.chunk.js",
+    "index.html": "/BOTSPOT-AI/index.html",
+    "main.d35af095.css.map": "/BOTSPOT-AI/static/css/main.d35af095.css.map",
+    "main.23a06324.js.map": "/BOTSPOT-AI/static/js/main.23a06324.js.map",
+    "787.628d3c74.chunk.js.map": "/BOTSPOT-AI/static/js/787.628d3c74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d35af095.css",
+    "static/js/main.23a06324.js"
+  ]
+}
